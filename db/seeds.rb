@@ -5,3 +5,9 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+Feed.create(message: 'To run is fun.')
+Feed.create(message: 'Nice to run everyday!')
+Feed.create(message: 'Do not give up running!')
+Feed.create(message: 'Run, Run, Run.')
+Feed.create(message: 'Run, Track, Improve!')
