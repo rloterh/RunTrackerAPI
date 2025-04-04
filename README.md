@@ -1,6 +1,4 @@
-# RunTrackerAPI - A Restful API Backend (Microverse Full Stack Capstone project)
-
-![Microverse](https://img.shields.io/badge/-Microverse-007bff?style=for-the-badge)
+# RunTrackerAPI - A Restful API Backend
 
 ## Description
 This project handles API calls and Json Web Token for authentication of Run Tracking applications, fed to a separate React/ Redux frontend. 
